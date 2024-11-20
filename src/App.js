@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <div>Slack Project</div>
         <Counter />
       </header>
     </div>
